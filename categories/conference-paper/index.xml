@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>conference paper on Hathaway.C</title>
+    <link>https://chhsch.github.io/categories/conference-paper/</link>
+    <description>Recent content in conference paper on Hathaway.C</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Mon, 30 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://chhsch.github.io/categories/conference-paper/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>IMU-based Pain Assessment in Patients with Adhesive Capsulitis: A Machine Learning Approach</title>
+      <link>https://chhsch.github.io/projects/post-3/</link>
+      <pubDate>Mon, 30 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://chhsch.github.io/projects/post-3/</guid>
+      <description>Abstract Reliable shoulder function and pain assessment tools are important for the medical management in patients with adhesive capsulitis (AC).</description>
+    </item>
+    
+    <item>
+      <title>Assessment of Shoulder Pain for Adhesive Capsulitis Using Inertial Measurement Units</title>
+      <link>https://chhsch.github.io/projects/post-1/</link>
+      <pubDate>Mon, 24 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://chhsch.github.io/projects/post-1/</guid>
+      <description>Abstract Adhesive capsulitis (AC) is a common shoulder joint disease.</description>
+    </item>
+    
+  </channel>
+</rss>

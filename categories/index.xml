@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Hathaway.C</title>
+    <link>https://chhsch.github.io/categories/</link>
+    <description>Recent content in Categories on Hathaway.C</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Mon, 30 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://chhsch.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>conference paper</title>
+      <link>https://chhsch.github.io/categories/conference-paper/</link>
+      <pubDate>Mon, 30 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://chhsch.github.io/categories/conference-paper/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>course project</title>
+      <link>https://chhsch.github.io/categories/course-project/</link>
+      <pubDate>Tue, 20 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://chhsch.github.io/categories/course-project/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

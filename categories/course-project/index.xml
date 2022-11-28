@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>course project on Hathaway.C</title>
+    <link>https://chhsch.github.io/categories/course-project/</link>
+    <description>Recent content in course project on Hathaway.C</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Tue, 20 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://chhsch.github.io/categories/course-project/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Image Classification-covid-19</title>
+      <link>https://chhsch.github.io/projects/post-4/</link>
+      <pubDate>Tue, 20 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://chhsch.github.io/projects/post-4/</guid>
+      <description>Purpose Reducing workload for physician to assess covid-19 Increase the accuracy and efficiency of diagnosis Method Dataset Total image:918 Data resouce: U.</description>
+    </item>
+    
+    <item>
+      <title>Image Classification-scoliosis</title>
+      <link>https://chhsch.github.io/projects/post-2/</link>
+      <pubDate>Sun, 31 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://chhsch.github.io/projects/post-2/</guid>
+      <description>Purpose Reducing workload for physician to assess scoliosis Patients can get Preliminary detection by taking photos Symptoms can be detected and treated early to prevent the possibility of deterioration Method Image pre-processing Image cropping Removing image Backgrounds Model Building 2 stage process with train, validation, test and 7 models comparison</description>
+    </item>
+    
+    <item>
+      <title>Prediction of the covid-19 confirmed cases</title>
+      <link>https://chhsch.github.io/projects/post-5/</link>
+      <pubDate>Wed, 06 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://chhsch.github.io/projects/post-5/</guid>
+      <description>Purpose design algorithms through public epidemic data to find out the key factors of the epidemic assist medical institutions and government to control and adjust the spread factors effectively Method Dataset CSSE COVID-19 dataset Taoyuan Airport Flight Traffic Hourly Number of People Forecast Taiwan Centers for Disease Control and Prevention Coronavirus Information Collection Model Building tf.</description>
+    </item>
+    
+  </channel>
+</rss>
